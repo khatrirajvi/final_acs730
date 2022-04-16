@@ -12,11 +12,11 @@ echo "<html>
 </head>
 <body>
     <h1>Hello!</h1>
-    <h4>Group Members</h4>
-    <h4>Bibek Shrees</h4>
-    <h4>Kartik Sharma</h4>
-    <h4>Rajvi Khatri</h4>
-    <h4>Sanjam Malhotra</h4>
+    <ul>Group Members</ul>
+    <li color"blue">Bibek Shrees</li>
+    <li color"blue">Kartik Sharma</li>
+    <li color"blue">Rajvi Khatri</li>
+    <li color"blue">Sanjam Malhotra</li>
     <img src="/var/www/html/TimeTable.jpg" />
 </body>
 </html>" > /var/www/html/index.html
