@@ -9,7 +9,7 @@ jobs:
   delivery:
     runs-on: ubuntu-latest
     steps:
-    - name: Check out code
+    - name: Check the code security
       uses: actions/checkout@main
-    - name: Lint Terraform
+    - name: Lint-Terraform
       uses: actionshub/terraform-lint@main
